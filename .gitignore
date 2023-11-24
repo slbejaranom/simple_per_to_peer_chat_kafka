@@ -1,0 +1,9 @@
+/peer_one/.idea
+/peer_two/.idea
+/peer_one/.gradle
+/peer_two/.gradle
+/peer_one/out
+/peer_two/out
+/peer_one/build
+/peer_two/build
+/.idea
